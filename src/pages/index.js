@@ -29,7 +29,8 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-         title={'Testando'}
+        image={'/sarana11.png'}
+        title={'Essentials for a cold winter'}
         subtitle={'Acessórios'}
         ctaText={'shop now'}
         ctaAction={goToShop}
