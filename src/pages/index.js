@@ -28,8 +28,8 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-        maxWidth={'500px'}
         image={'/sarana11.png'}
+        maxWidth={'500px'}
         title={'Essentials for a cold winter'}
         subtitle={'Acessórios'}
         ctaText={'shop now'}
